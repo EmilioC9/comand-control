@@ -1,2 +1,2 @@
-
-print("EMIC ft Stardust")
+def run():
+  print("EMIC ft Stardust")
