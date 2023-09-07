@@ -1,2 +1,2 @@
 def run():
-  print("himel")
+  print("Rusty.one")
