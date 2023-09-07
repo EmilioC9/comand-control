@@ -1,2 +1,4 @@
+import os
 def run():
-  print("Rusty.one")
+  os.system("ls -l")
+  
